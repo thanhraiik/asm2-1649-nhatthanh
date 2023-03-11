@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "java": "^0.12.2",
+    "symbol": "^0.3.1"
+  }
+}
